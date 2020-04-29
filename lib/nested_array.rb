@@ -37,7 +37,7 @@ def matrix_lookup(matrix, row, collum)
   
     produce_storage_room = [
     ["Eggplant","Grapefruit","Oranges","Pineapple", "Watermelon" ],
-    ["Asparagus","Avocadoes","Grapes","Potatoes","Strawberries"   ]
+    ["Asparagus","Potatoes","Avocadoes","Grapes","Strawberries"   ]
     ]
     
     produce_storage_room[1][1]
