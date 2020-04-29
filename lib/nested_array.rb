@@ -52,5 +52,5 @@ def matrix_update(matrix, row, column, new_value)
     ["Asparagus","Avocadoes","Potatoes","Grapes","Strawberries"   ]
     ]
     
-    produce_storage_room[1][1] = "Beets"
+    produce_storage_room[0][3] = "Lemons"
 end
